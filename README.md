@@ -4,6 +4,13 @@
   - Also have functions in a remarkable number of plant developmental events, including primary root growth, reproductive development, and leaf senescence
   -  In general, JA promotes defense and reproduction while inhibiting growth-related processes such as cell division and photosynthesis
 
+![img](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00299-020-02614-z/MediaObjects/299_2020_2614_Fig2_HTML.png)
+
+[Jasmonic acid as a signaling molecule regulates the different plant processes by JA and its conjugate in response to several abiotic stresses, or in developmental progression, and also in basic features of agronomical importance of crop plants. Read text and Fig. 4 for further information about JA signaling]
+
+![img](https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/2028143737/2046549080/gr3.jpg)
+
+[Diverse roles of jasmonates and ethylene in abiotic stress tolerance: Trends in Plant Science]
 
 ![img](https://www.frontiersin.org/files/Articles/458580/fpls-10-01349-HTML/image_m/fpls-10-01349-g001.jpg)
 [The core components of the jasmonic acid (JA) signaling pathway in rice, tobacco, and Arabidopsis. CORONATINE INSENSITIVE 1 (COI1) protein, JASMONATE ZIM DOMAIN PROTEIN (JAZ), and MYC constitute the core signal transduction mechanism of JA signaling. Under control conditions, the endogenous level of JA–isoleucine (Ile) is very low plants. JAZ repressors bind to MYC2 to inhibit its transcriptional activation on downstream genes. Under stress conditions, the endogenous level of JA–Ile is largely activated, which is perceived by JA receptor COI1. Then SKP1/CULLIN/F-box (SCF)COI1 binds to JAZs for ubiquitination and degradation through the 26S proteasome pathway, resulting in the release of the downstream transcription factors (TFs) such as MYCs and the activation of JA responses]
