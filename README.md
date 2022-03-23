@@ -2,7 +2,7 @@
 
 Fig. 3
 
-![img](https://github.com/seninfobio/Jasmonate/blob/seninfobio/Figure_Jasmonate.pdf)
+![img](https://github.com/seninfobio/Jasmonate/blob/seninfobio/Figure_Jasmonate.png)
 ![img](https://github.com/seninfobio/Jasmonate/blob/seninfobio/Figure_JAsynthesis.emf)
 
 
