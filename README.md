@@ -1,4 +1,11 @@
 # Jasmonate
+
+Fig. 3
+
+![img](https://github.com/seninfobio/Jasmonate/blob/seninfobio/Figure_Jasmonate.pdf)
+
+
+
 **Jasmonates are well recognized lipid-derived stress hormones that regulate plant adaptations to biotic stresses, including herbivore attack and pathogen infection, as well as abiotic stresses, including wounding, ozone, and ultraviolet radiation.**
         
   - Also have functions in a remarkable number of plant developmental events, including primary root growth, reproductive development, and leaf senescence
